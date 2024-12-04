@@ -30,11 +30,11 @@ The project demonstrates foundational MATLAB techniques with practical applicati
 1. Ensure MATLAB is installed on your system.
 2. Clone this repository or download the files:
    ```bash
-   git clone https://github.com/yourusername/Signal-and-Systems.git
+   git clone https://github.com/Mzmou/Signal-and-Systems.git
    ```
 3. Navigate to the `CA1` folder within the repository:
    ```bash
-   cd signal-and-system/CA1
+   cd Signal-and-Systems/CA1
    ```
 4. Open the MATLAB application and navigate to this folder.
 
