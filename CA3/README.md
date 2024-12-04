@@ -22,7 +22,7 @@ This project involves solving three distinct computational problems in MATLAB:
 2. Detecting integrated circuits (ICs) in printed circuit board (PCB) images using template matching and correlation.
 3. Training and evaluating a machine learning model to predict diabetes based on medical features.
 
----
+
 
 
 
