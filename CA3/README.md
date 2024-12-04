@@ -24,34 +24,10 @@ This project involves solving three distinct computational problems in MATLAB:
 
 ---
 
-## Project Structure
 
-```
-Signal-and-Systems/
-│
-├── CA3/
-│   ├── Part1_MessageEncoding/
-│   │   ├── Mapset.m           # MATLAB script to create character-binary mapping
-│   │   ├── coding.m           # Function to encode a message into an image
-│   │   ├── decoding.m         # Function to decode the message from an image
-│   │   ├── ExampleInput.png   # Example grayscale image
-│   │   └── ExampleOutput.png  # Encoded image for the example message
-│   │
-│   ├── Part2_ICDetection/
-│   │   ├── ICrecognition.m    # Function to detect ICs in PCB images
-│   │   ├── PCBImage.png       # Example PCB image
-│   │   ├── ICImage.png        # Template image for the IC
-│   │   └── Output.png         # Output with detected ICs highlighted
-│   │
-│   ├── Part3_DiabetesPrediction/
-│   │   ├── diabetes-training.mat        # Training dataset
-│   │   ├── diabetes-validation.mat      # Validation dataset
-│   │   ├── train_and_predict.m          # Main script for ML model training and evaluation
-│   │   ├── TrainedModel.mat             # Saved trained model
-│   │   └── Results.pdf                  # Summary of ML results
-│   │
-│   └── README.md           # This file
-```
+
+
+
 
 ---
 
