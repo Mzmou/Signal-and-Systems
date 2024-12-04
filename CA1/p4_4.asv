@@ -1,0 +1,13 @@
+function p4_4(filename,speed)
+
+if(((speed*10) <5) || ((speed*10)>20) || (mod(speed*100,10)~=0) )
+    disp("not valid")
+else  
+    [audioData, fs] = audioread(filename);
+     keep_ratio=(1/speed);
+     new_length=(keep_ratio*length(audioData));
+     disp(new_length);
+ 
+
+
+end    
